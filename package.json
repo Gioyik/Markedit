@@ -1,0 +1,11 @@
+{
+  "name": "Markedit",
+  "description": "A markdown editor made simple.",
+  "version": "1.0",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 660,
+    "height": 500
+  }
+}
