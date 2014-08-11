@@ -1,11 +1,23 @@
 {
   "name": "Markedit",
-  "description": "A markdown editor made simple.",
+  "description": "Markedit is a simple and easy markdown editor that runs on your desktop using node-webkit.",
   "version": "1.0",
   "main": "index.html",
   "window": {
     "toolbar": false,
-    "width": 660,
-    "height": 500
+    "width": 900,
+    "height": 700
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZydiaLabs/Markedit"
+  },
+  "license": {
+    "type": "AGPL"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-node-webkit-builder": "~0.2.0"
   }
 }
