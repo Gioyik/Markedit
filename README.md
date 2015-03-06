@@ -1,7 +1,7 @@
 Markedit
 ========
 
-Markedit is a simple and easy markdown editor that runs on your desktop using node-webkit. Is simple and easy to manage. You can [try it](http://markedit.zidyalabs.com/live) online too.
+Markedit is a simple and easy markdown editor that runs on your desktop using node-webkit. Is simple and easy to manage. You can [try it](http://zidyalabs.com/markedit/live) online too.
 
 ## Screenshot
 
@@ -13,8 +13,8 @@ Changelog
 - Open Markdown file
 - Live autosave (don't loose your work)
 
-Download
---------
+Run it
+------
 Go to [Download page](http://markedit.zidyalabs.com/download/) and download the package for your platform. Or
 
  * [Windows 32 bits]()
